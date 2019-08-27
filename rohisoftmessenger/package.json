@@ -4,15 +4,15 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.3.3",
-    "express": "^4.17.1",
+    "debug": ">=2.6.9",
+    "express": "^4.15.2",
+    "fresh": ">=0.5.2",
     "material": "^0.3.13",
+    "mime": ">=1.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
-    "socket.io": "^2.2.0",
-    "fresh": ">=0.5.2",
-    "mime": ">=1.4.1",
-    "debug": ">=2.6.9"
+    "socket.io": "^2.2.0"
   },
   "scripts": {
     "start": "PORT=7777 react-scripts start",
