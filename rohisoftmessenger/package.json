@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.3.3",
     "debug": ">=2.6.9",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "fresh": ">=0.5.2",
     "material": "^0.3.13",
     "mime": ">=1.4.1",
